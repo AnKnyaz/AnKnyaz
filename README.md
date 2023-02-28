@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey
+𝕳𝖎 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)𝖒𝖞 𝖓𝖆𝖒𝖊 𝖎𝖘 𝕬𝖓𝖉𝖗𝖊𝖞
 ==============================================================================================================================
 <div id="header">
   <img src="https://99px.ru/sstorage/86/2017/08/11408171116193606.gif" width="200"/>
 </div>
 
-* 🌍  I'm based in Vladimir
+* 🌍  𝕴'𝖒 𝖇𝖆𝖘𝖊𝖉 𝖎𝖓 𝖁𝖑𝖆𝖉𝖎𝖒𝖎𝖗 🌍
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+### 🍪 𝕾𝖐𝖎𝖑𝖑𝖘 🍪
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -20,12 +20,12 @@ src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-b
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+### 🍭𝕾𝖔𝖈𝖎𝖆𝖑𝖘🍭
 
 <p align="left"> <a href="https://discord.com/users/Черный Плащ#2901" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/knyaz_bmx_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://vk.com/knyaz_bmx" target="_blank" rel="noreferrer"><img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-306-340x340.png" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
+<b>✎ 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘 ✎</b>
 
 <a href="http://www.github.com/AnKnyaz"><img src="https://github-readme-stats.vercel.app/api?username=AnKnyaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnKnyaz's GitHub stats" /></a>
 
