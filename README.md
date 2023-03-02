@@ -3,7 +3,9 @@
 <div id="header">
   <img src="https://99px.ru/sstorage/86/2017/08/11408171116193606.gif" width="200"/>
 </div>
+
 ---
+
 ### 💻 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💻
 * 🌍  𝓘'𝓶 𝓫𝓪𝓼𝓮𝓭 𝓲𝓷 𝓥𝓵𝓪𝓭𝓲𝓶𝓲𝓻 🌍
 * 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️
@@ -11,7 +13,9 @@
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  
 ---
+  
 ### 🍪 𝓢𝓴𝓲𝓵𝓵𝓼 🍪
 
 <p align="left">
