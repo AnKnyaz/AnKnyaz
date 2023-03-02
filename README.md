@@ -8,8 +8,7 @@
 
 ### 💻 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💻
 * 🌍  𝓘'𝓶 𝓫𝓪𝓼𝓮𝓭 𝓲𝓷 𝓥𝓵𝓪𝓭𝓲𝓶𝓲𝓻 🌍
-* 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️
-<p align="left"> <a href="https://computer-image.ru/" target="_blank" rel="noreferrer"><img src="https://computer-image.ru/upload/CNext/65e/65e667b29df82309a9f06894fb645b97.png" width="32" height="32" /></a>
+* 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️ <a href="https://computer-image.ru/" target="_blank" rel="noreferrer"><img src="https://computer-image.ru/upload/CNext/65e/65e667b29df82309a9f06894fb645b97.png" width="32" height="32" /></a>
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,12 +26,15 @@ src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-b
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 ---
+
 ### 🍭𝓢𝓸𝓬𝓲𝓪𝓵𝓼🍭
 
 <p align="left"> <a href="https://discord.com/users/Черный Плащ#2901" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/knyaz_bmx_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://vk.com/knyaz_bmx" target="_blank" rel="noreferrer"><img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-306-340x340.png" width="32" height="32" /></a></p>
 
 ---
+
 <b>✎ 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓼𝓽𝓪𝓽𝓼 ✎</b>
 
 <a href="http://www.github.com/AnKnyaz"><img src="https://github-readme-stats.vercel.app/api?username=AnKnyaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnKnyaz's GitHub stats" /></a>
