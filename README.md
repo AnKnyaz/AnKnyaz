@@ -12,6 +12,10 @@
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AnKnyaz&style=for-the-badge&color=Salmon" />
+</div>
   
 ---
   
