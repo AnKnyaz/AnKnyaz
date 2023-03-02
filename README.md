@@ -8,6 +8,7 @@
 
 ### 💻 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💻
 * 🌍  𝓘'𝓶 𝓫𝓪𝓼𝓮𝓭 𝓲𝓷 𝓥𝓵𝓪𝓭𝓲𝓶𝓲𝓻 🌍
+* ✉️  𝓨𝓸𝓾 𝓬𝓪𝓷 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓪𝓽 [knyazev\_a@computer-image.ru;](mailto:knyazev_a@computer-image.ru; )
 * 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️ <a href="https://computer-image.ru/" target="_blank" rel="noreferrer"><img src="https://www.slazzer.com/downloads/32f94fcc-b8f6-11ed-8699-42010a80000a/image_prev_ui.png" width="32" height="32" /></a>
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
