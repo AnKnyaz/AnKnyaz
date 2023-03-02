@@ -1,7 +1,7 @@
 𝓗𝓲 ! <img src="https://owliverspost.com/wp-content/uploads/2020/10/giphy-4.gif" width="36" height="36" /> 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓐𝓷𝓭𝓻𝓮𝔂
 ==============================================================================================================================
 <div id="header">
-  <img src="https://99px.ru/sstorage/86/2017/08/11408171116193606.gif" width="200"/>
+  <img src="https://gb.ru/blog/wp-content/uploads/2021/11/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg" />
 </div>
 
 ---
