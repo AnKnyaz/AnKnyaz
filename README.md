@@ -8,7 +8,7 @@
 
 ### 💻 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💻
 * 🌍  𝓘'𝓶 𝓫𝓪𝓼𝓮𝓭 𝓲𝓷 𝓥𝓵𝓪𝓭𝓲𝓶𝓲𝓻 🌍
-* 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️ <a href="https://computer-image.ru/" target="_blank" rel="noreferrer"><img src="https://www.slazzer.com/downloads/faeb9f54-b8f5-11ed-9fd6-42010a800009/image_prev_ui.png" width="32" height="32" /></a>
+* 🖥️   𝓘'𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣-𝕚𝕞𝕒𝕘𝕖  🖥️ <a href="https://computer-image.ru/" target="_blank" rel="noreferrer"><img src="https://www.slazzer.com/downloads/32f94fcc-b8f6-11ed-8699-42010a80000a/image_prev_ui.png" width="32" height="32" /></a>
 
 <a href="https://www.github.com/AnKnyaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnKnyaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
